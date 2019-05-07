@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/TwistYoFate/Portfolio/precache-manifest.a9917569390eebb87da785efa74dd52e.js"
+  "/TwistYoFate/Portfolio/precache-manifest.3b0b2941522a6bd0379df781e5f9de6a.js"
 );
 
 workbox.clientsClaim();

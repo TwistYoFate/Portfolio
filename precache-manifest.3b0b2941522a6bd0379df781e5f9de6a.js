@@ -20,15 +20,15 @@ self.__precacheManifest = [
     "url": "/TwistYoFate/Portfolio/static/js/runtime~main.889899ad.js"
   },
   {
-    "revision": "a487e52a9f39db7b5311",
-    "url": "/TwistYoFate/Portfolio/static/js/main.a487e52a.chunk.js"
+    "revision": "affcf565ce9b397af407",
+    "url": "/TwistYoFate/Portfolio/static/js/main.affcf565.chunk.js"
   },
   {
     "revision": "a4121f5f4679112d0b9a",
     "url": "/TwistYoFate/Portfolio/static/js/2.a4121f5f.chunk.js"
   },
   {
-    "revision": "a487e52a9f39db7b5311",
+    "revision": "affcf565ce9b397af407",
     "url": "/TwistYoFate/Portfolio/static/css/main.3ca5754a.chunk.css"
   },
   {
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/TwistYoFate/Portfolio/static/css/2.1756418c.chunk.css"
   },
   {
-    "revision": "eb3481c27a8b16bacba80f0646d4e05b",
+    "revision": "8e78ebe65c17d809f3af9fe4162d4676",
     "url": "/TwistYoFate/Portfolio/index.html"
   }
 ];
